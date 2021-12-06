@@ -85,7 +85,7 @@ empowers managers to build and execute any type of workflow.
         </blockquote>
 
         <p>
-          👩‍💻 I'm not available for projects right now. Get in touch: alo [@] bruna.design
+          👩‍💻 I'm <code>available</code> for projects right now. Get in touch: alo [@] bruna.design
         </p>
       </div>
     </div>
