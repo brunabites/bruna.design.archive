@@ -29,7 +29,6 @@ export default {
 }
 </script>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B7B4SVX90B"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
