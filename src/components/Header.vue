@@ -29,7 +29,19 @@ export default {
 }
 </script>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-B7B4SVX90B"></script>
+<script>
+export default {
+  mounted() {
+    const plugin = document.createElement("script");
+    plugin.setAttribute(
+      "src",
+      "https://www.googletagmanager.com/gtag/js?id=G-B7B4SVX90B"
+    );
+    plugin.async = true;
+    document.head.appendChild(plugin);
+  }
+};
+</script>
 
 <style scoped>
 .header {
