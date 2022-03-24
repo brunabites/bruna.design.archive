@@ -1,6 +1,6 @@
 <template>
     <div class="projects">
-      <span class="label">Latest case studies</span>
+      <span class="label">Some projects</span>
       <div class="project" v-for="item in projects" :key="item.node.id">
           <g-link :to="item.node.path" class="project-link">
           <g-image
