@@ -43,6 +43,6 @@ fields:
   label: Foreground color
   hidden: true
 pages:
-- projects/mercado-fresh.md
+- projects/design-systems-brasileiros.md
 - projects/talking-points.md
 - projects/zolvia.md
