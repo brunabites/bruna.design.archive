@@ -1,49 +1,30 @@
 ---
-thumbnail: "/uploads/hero-mf.jpg"
-title: MercadoFresh
-description: MercadoFresh is an online groceries service that meets customized demands
-  for products.
-date: 2019-01-03
+thumbnail: "/uploads/home-dsbr.png"
+title: Design Systems Brasileiros
+description: Design Systems Brasileiros is a list (or repository) of Design Systems
+  built in Brazil.
+date: 2022-02-28
 categories:
-- user interface
-- user experience
+- side project
+- design system
 project_bg_color: "#FFFFFF"
 project_fg_color: ''
 
 ---
-![](/uploads/hero-mf.jpg)
+![](/uploads/hero-dsbr.jpg)
 
 ### Info
 
-* Role: Experience Design , User Interface, Branding
-* Primary Stakeholder: MercadoFresh
+* Side-project | Design Systems
 
-## Challenge
+The other day I was building a component in Pipefy's Design System and the question arose: how did other teams in Brazil deal with the construction, structure, documentation, etc. of components? Do they struggle? Which platformdo they use? Which naming conventions do those teams use?
 
-The challenge was to turn shopping experience in several places invisible to the consumer. The second step was to let users control the search experience, with precision and relevance, always assuming that they were shopping in a supermarket and the amount of each item could vary a lot (you carry one or two boxes of laundry soap, but want to buy 12 bananas).
+It wasn't clear to me at all... although I've found some Medium articles about some of those questions, I didn't have a true database of Design System to go futher on this research.
 
-I led the design in this project, conducting research with SobreApps and Move2, working close with devs and stakeholders.
+That's when I decided to take this conversation to LinkedIn and ask my network: "Do you know any design system built here in Brazil?". To my surprise, a lot of people showed up and sent name of systems that I (and many other colleagues) didn't know yet.
 
-## Process
+By that time was clear that I should build a repository or even list it in public document.
 
-In the first stage we designed an interface without any marketplace signage or store division throughout the purchase journey, including in the cart shopping. To achieve this result, many hours of research and discovery were spent defining categories, subcategories and their products, so that everything would be uniform in the view of the consumer.
+So putting togheter my love for Design Systems, Notion, Github and mixing with open projects (and my low knowledge of code) I built the website: Design Systems Brasileiros (in english, Brazilian Design Systems).
 
-During research, <mark>each category was analyzed to meet its specific characteristics</mark>, providing a search with assertive facets. Meats is bought by cuts or type of preparation, vegetables if they are organic or not, and various foods can be sugar-free, kosher or gluten-free. Even brands make a lot of difference in some cases. In this way, all those characteristics were mapped to be a search parameter for the client.
-
-#### Homepage
-
-![](/uploads/mf_home_concept_v1.jpg "Homepage")
-
-<div class="columns"><div class="col">
-
-#### Category page
-
-![Categories](/uploads/mf_categoria-sub-01.png "Categories")
-
-</div><div class="col">
-
-#### Product page
-
-![](/uploads/mf_detalhe-produto-03.png "Product Detail")
-
-</div></div>
+![](/uploads/home-dsbr.png "Design Systems Brasileiros")
