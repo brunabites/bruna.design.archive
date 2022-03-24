@@ -11,7 +11,7 @@ project_bg_color: "#FFFFFF"
 project_fg_color: ''
 
 ---
-![](/uploads/hero-dsbr.jpg)
+![](/uploads/dsbr-cover.png)
 
 ### Info
 
