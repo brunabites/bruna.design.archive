@@ -11,7 +11,9 @@ project_bg_color: "#FFFFFF"
 project_fg_color: ''
 
 ---
-![](/uploads/dsbr-cover.png)
+<div class="full-width cover">
+  ![](/uploads/dsbr-cover.png)
+</div>
 
 ### Info
 
@@ -27,4 +29,8 @@ By that time was clear that I should build a repository or even list it in publi
 
 So putting togheter my love for Design Systems, Notion, Github and mixing with open projects (and my low knowledge of code) I built the website: Design Systems Brasileiros (in english, Brazilian Design Systems).
 
+<div class="full-width">
+  
 ![](/uploads/home-dsbr.png "Design Systems Brasileiros")
+
+</div>
