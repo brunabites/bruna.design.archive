@@ -12,7 +12,9 @@ project_fg_color: ''
 
 ---
 <div class="full-width cover">
-  ![](/uploads/dsbr-cover.png)
+  
+ ![](/uploads/dsbr-cover.png)
+  
 </div>
 
 ### Info
