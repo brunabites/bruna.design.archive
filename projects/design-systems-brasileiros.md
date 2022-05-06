@@ -19,7 +19,7 @@ project_fg_color: ''
 
 ### Info
 
-* Side-project | Design Systems
+* _Side-project | Design Systems_
 
 The other day I was building a component in Pipefy's Design System and the question arose: how did other teams in Brazil deal with the construction, structure, documentation, etc. of components? Do they struggle? Which platform do they use? Which naming conventions do those teams use?
 
