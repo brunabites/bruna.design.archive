@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/home-dsbr.png"
+thumbnail: "/uploads/dsbr-cover-1.png"
 title: Design Systems Brasileiros
 description: Design Systems Brasileiros is a list (or repository) of Design Systems
   built in Brazil.
@@ -13,7 +13,7 @@ project_fg_color: ''
 ---
 <div class="full-width cover">
 
-![Design Systems Brasileiros](/uploads/dsbr-cover.png "Design Systems Brasileiros")
+![Design Systems Brasileiros](/uploads/dsbr-cover-1.png "Design Systems Brasileiros")
 
 </div>
 
@@ -31,8 +31,4 @@ By that time was clear that I should build a repository or even list it in a pub
 
 So putting together my love for Design Systems, Notion, Github, and mixing with open projects (and my low knowledge of code) I built the website: Design Systems Brasileiros (in English, Brazilian Design Systems).
 
-<div class="full-width">
-
 ![Design Systems Brasileiros](/uploads/home-dsbr.png "Design Systems Brasileiros")
-
-</div>
