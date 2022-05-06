@@ -13,7 +13,7 @@ project_fg_color: ''
 ---
 <div class="full-width cover">
   
- ![](/uploads/dsbr-cover.png)
+ ![Design Systems Brasileiros](/uploads/dsbr-cover.png "Design Systems Brasileiros")
   
 </div>
 
@@ -33,6 +33,6 @@ So putting togheter my love for Design Systems, Notion, Github and mixing with o
 
 <div class="full-width">
   
-![](/uploads/home-dsbr.png "Design Systems Brasileiros")
+![Design Systems Brasileiros](/uploads/home-dsbr.png "Design Systems Brasileiros")
 
 </div>
